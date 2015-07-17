@@ -1,0 +1,10 @@
+Package: keger2
+Title: Keger2: A interactive graph HTMLWIDGET
+Version: 0.0.0.9000
+Authors@R: 
+ person("Wesley", "Last", email = "wesley@bic.nus.edu.sg", role = c("aut", "cre"))
+ person("Chao", "Xie", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Allows one to load multiple datasets investigating the same KOs in KEGG metabolism 
+Depends: R (>= 3.1.1)
+License: GPL-2
+LazyData: true
